@@ -1,4 +1,4 @@
-# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
+# CS3SY26_ProjectProposal by Group 10 of Potassium
 
 
 ## Project Proposal Template:
