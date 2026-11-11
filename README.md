@@ -17,7 +17,7 @@ Event scheduling and volunteer matching are driven by the Event and MatchingEngi
 
 The primary user demographic consists of high school and college students seeking verified community service hours, alongside local residents interested in offering specific skills such as tutoring, web development, or event coordination. The secondary demographic includes local non-profit organizations, community centers, schools, and charitable groups seeking reliable volunteers to staff their events and initiatives.
 
-![Class Diagram](<img width="1811" height="1161" alt="mermaid-diagram-2026-11-11-210954" src="https://github.com/user-attachments/assets/a6e9826d-7990-4fe4-92ad-c3de32061b5f" />)
+![Class Diagram](./images/diagram.png)
 
 ### Goals:
 
