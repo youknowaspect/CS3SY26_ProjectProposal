@@ -6,6 +6,7 @@
 ### Section			   	      : 9 - Potassium
 ### Group Members			    : GARAIS, GARSUTA, SERRANO
 ### Date (Proposal Date)  : Nov 12, 2026
+## Sidenote: Garsuta doesn't have a GitHub account, and Serrano is listed in the collaborators, however, we created this on my account only, so Serrano doesn't appear in the contributors.
 
 ### Project Description:
 
